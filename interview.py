@@ -1,5 +1,3 @@
-import copy
-
 def max_profit(prices, unit_weights, capacity):
 	'''
 	dynamic programming approach
